@@ -1,6 +1,6 @@
 # URL---website-scrapping 
 
-The basic idea of this project is webscraping with python, the whole project is developed in juoyter notebook.
+The basic idea of this project is web scraping with Python, the whole project is developed in Jupiter notebook.
 
 Packages used - Beautiful Soup, it is python package for parsing HTMl and XML documents, it creates a parse tree for parsed pages that can be used to extract data from HTML, which is used for web scraping.
 
